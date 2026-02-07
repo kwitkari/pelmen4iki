@@ -1,0 +1,5 @@
+{
+  "name": "Pelmeni Optimizer",
+  "description": "A topological optimization tool for maximizing pelmeni production on an irregular piece of dough using 2D circle packing algorithms.",
+  "requestFramePermissions": []
+}
